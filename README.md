@@ -1,4 +1,4 @@
-# Go simple http code sample
+# Go simple http interview code sample
 
 ### Instructions 
 Write a program to perform a GET request on the route htttp://coderbyte.com/api/challenges/json/wizard-list and then calculate the average age of wizards by house. Create a new array of objects with a house property and an average_age property. Ignore any items with an empty string as the house property. At the end convert the average_age property from a float to an integer rounding to the nearest whole number.
